@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Kelsey</h1>
 <h3 align="center">Aspiring Computer Scientist |AI Enthusiast | High School Student</h3>
-![Banner Image](https://www.veed.io/view/4db108e7-2975-4c6e-a965-3c3af541ad49)
-
-
 
 - 🔭 I’m currently working on **a Wildlife Conservation AI Model**
 
