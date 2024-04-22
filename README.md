@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Kelsey</h1>
-<h3 align="center">Aspiring Computer Scientist |AI Enthusiast | High School Student</h3>
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on **a Wildlife Conservation AI Model**
 
