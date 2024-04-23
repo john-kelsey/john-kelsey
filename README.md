@@ -1,16 +1,13 @@
 ![Header](./github-header-image.png)
 
-- 🔭 I’m currently working on **a Wildlife Conservation AI Model**
+I'm a developer on a quest to conquer the wild world of code. Python's my current go-to, but I'm also dipping my toes in HTML, CSS, and JS. Downloaded PostgreSQL, but it's currently chilling on my desktop like a shy roommate. In a daring move, I'm even learning C# because why not, right? Currently building my future with SvelteKit (a super cool front-end framework) and Firebase as my backend.
+Also learning [Ethical Hacking](https://skillsforall.com/) and [Microsoft Azure](https://learn.microsoft.com/en-us/training/)
 
-- 🌱 I’m currently learning **CS50W , Cisco's Ethical Hacking Course ,JavaScript, Sveltkit**
+Check out my blog(at [Substack](https://substack.com/@johnkelsey) or [Hashnode](https://hashnode.com/@johnkelsey)) for the full epic saga (and maybe some embarrassing coding faux pas)!
 
-- 📝 I I write regular blog posts, most of which you will find on [Substack](https://substack.com/@johnkelsey) or [Hashnode](https://hashnode.com/@johnkelsey)
+Reach me through [Email](johnkelsey.irungu@gmail.com)
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **johnkelsey.irungu@gmail.com**
-
-- ⚡ Fun fact **The more I learn , the more I don't know**
+If you'd like to support me feel free to send a [tip](https://buymeacoffee.com/johnkelsey)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
