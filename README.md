@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/john-irungu-k2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-irungu-k2009" height="30" width="40" /></a>
 <a href="https://kaggle.com/joekelly009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joekelly009" height="30" width="40" /></a>
 <a href="https://instagram.com/joe_k009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_k009" height="30" width="40" /></a>
-<a href="https://hashnode.com/@johnkelsey" target="blank"><img align="center" src="![Image](./brand-icon.png)" alt="@johnkelsey" height="30" width="40" /></a>
+<a href="https://hashnode.com/@johnkelsey" target="blank"><img align="center" src=![Image](./brand-icon.png) alt="@johnkelsey" height="30" width="40" /></a>
 <a href="https://medium.com/@johnkelsey.irungu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@johnkelsey.irungu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/john-kelsey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="john-kelsey" height="30" width="40" /></a>
 </p>
