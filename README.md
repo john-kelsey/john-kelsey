@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **CS50W , Cisco's Ethical Hacking Course ,JavaScript, Sveltkit**
 
-- 📝 I regularly write articles on [https://substack.com/@johnkelsey](https://substack.com/@johnkelsey)
+- 📝 I regularly write articles on [https://substack.com/@johnkelsey](https://substack.com/@johnkelsey) and [https://hashnode.com/@johnkelsey](https://hashnode.com/@johnkelsey)
 
 - 💬 Ask me about **Python**
 
