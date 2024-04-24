@@ -7,7 +7,7 @@ Check out my blog(at [Substack](https://substack.com/@johnkelsey) or [Hashnode](
 
 Reach me through [Email](johnkelsey.irungu@gmail.com)
 
-If you'd like to support me feel free to send a [tip](https://buymeacoffee.com/johnkelsey)
+If you'd like to support me and my work feel free to send a [tip](https://buymeacoffee.com/johnkelsey)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
