@@ -3,7 +3,7 @@
 I'm a developer on a quest to conquer the wild world of code. Python's my current go-to, but I'm also dipping my toes in HTML, CSS, and JS. Downloaded PostgreSQL, but it's currently chilling on my desktop like a shy roommate. I even decided to learn C# because why not, right? Currently building my future with SvelteKit (a super cool front-end framework) and Firebase as my backend.
 Also learning [Ethical Hacking](https://skillsforall.com/) and [Microsoft Azure](https://learn.microsoft.com/en-us/training/)
 
-Check out my blog(at [Substack](https://substack.com/@johnkelsey) or [Hashnode](https://hashnode.com/@johnkelsey)) for the full epic saga (and maybe some embarrassing coding faux pas)!
+Check out my blog(at [Substack](https://johnkelsey.substack.com/) or [Hashnode](https://johnkelsey.hashnode.dev)) for the full epic saga (and maybe some embarrassing coding faux pas)!
 
 Reach me through johnkelsey.irungu@gmail.com
 
