@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-I'm a developer on a quest to explore the wild world of code. Python's my current go-to, but I'm also dipping my toes in HTML, CSS, and JS. Downloaded PostgreSQL, but it's currently just chilling on my desktop. I even decided to learn C# because why not, right? Currently learning SvelteKit (a front-end framework) and Firebase as my backend.
+I'm a developer on a quest to explore the wild world of code. Python's my current go-to, but I'm also dipping my toes in HTML, CSS, and JS. Downloaded PostgreSQL, but it's currently just chilling on my desktop. I even decided to learn C# because why not, right? 
 Also learning [Ethical Hacking](https://skillsforall.com/) and [Microsoft Azure](https://learn.microsoft.com/en-us/training/)
 
 Check out my blog (at [Substack](https://johnkelsey.substack.com/) or [Hashnode](https://johnkelsey.hashnode.dev)) for the full epic saga (and maybe some embarrassing coding faux pas)!
