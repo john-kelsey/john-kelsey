@@ -5,7 +5,7 @@ Also learning [Ethical Hacking](https://skillsforall.com/) and [Microsoft Azure]
 
 Check out my blog (at [Substack](https://johnkelsey.substack.com/) or [Hashnode](https://johnkelsey.hashnode.dev)) for the full epic saga (and maybe some embarrassing coding faux pas)!
 
-Reach me through johnkelsey.irungu@gmail.com
+Reach me through johnkelsey.irungu@gmail.com or [@john-kelsey:matrix.org](https://matrix.to/#/@john-kelsey:matrix.org)
 
 If you'd like to support me and my work feel free to send a [tip](https://buymeacoffee.com/johnkelsey)
 
