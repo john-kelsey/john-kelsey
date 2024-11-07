@@ -15,7 +15,7 @@ If you'd like to support me and my work feel free to send a [tip](https://buymea
 <a href="https://twitter.com/john_k_irungu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="john_k_irungu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/john-irungu-k2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-irungu-k2009" height="30" width="40" /></a>
 <a href="https://kaggle.com/joekelly009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joekelly009" height="30" width="40" /></a>
-<a href="https://instagram.com/joe_k009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_k009" height="30" width="40" /></a>
+<a href="https://instagram.com/john_kelsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="john_kelsy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
