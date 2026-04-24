@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png)
 
 I'm a developer on a quest to explore the wild world of code. Python's my current go-to, but I'm also dipping my toes in HTML, CSS, and JS. Downloaded PostgreSQL, but it's currently just chilling on my desktop. I even decided to learn C# because why not, right? 
 Also learning [Ethical Hacking](https://skillsforall.com/) and [Microsoft Azure](https://learn.microsoft.com/en-us/training/)
